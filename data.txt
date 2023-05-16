@@ -3,4 +3,3 @@ age:30
 fauvorite color:yellow
 hola mundo
 ola k ase
-q
